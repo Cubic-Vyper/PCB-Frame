@@ -13,3 +13,9 @@ and insert the inner frame and resume
 
 
 <img width="614" height="472" alt="Image" src="https://github.com/user-attachments/assets/99f96d30-0f65-4100-a3cd-d51e132165ff" />
+
+to insert the leds, cut to size (~12") peel off the adhesive backing and feed it throug the hole in the side:
+
+<img width="359" height="335" alt="Image" src="https://github.com/user-attachments/assets/92b85299-1032-40b7-8506-0d802ca86949" />
+
+plug it up and enjoy!

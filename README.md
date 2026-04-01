@@ -3,7 +3,7 @@ This is a 3d printed light up picture frame designed to hold the first PCB I des
 
 | Name | Purpose | Cost | Qty | Total | Link | Distributor |
 |------|---------|------|-----|-------|------|-------------|
-| RGB Led Strip | This will light up the PCB | $0.98 | 1 | $0.98 | [Link to Listing](https://www.alibaba.com/product-detail/SMD2835-RGB-LED-Strip-Light-with_1600174814351.html?spm=a2700.prosearch.normal_offer.d_image.552e67afHJ24Lc&priceId=63960a30b33c4b929f9f68716749fb77) | Alibaba |
+| RGB Led Strip | This will light up the PCB | $1.99 | 1 | $1.99 | [Link to Listing](https://www.aliexpress.us/item/2251801850504415.html?spm=a2g0o.cart.0.0.7eff38dacol07w&mp=1&pdp_npi=6%40dis%21USD%21USD%205.61%21USD%201.99%21%21USD%201.99%21%21%21%402103129017750858662327765e2195%2167389781127%21ct%21US%217500193000%21%211%210%21&_gl=1*1yqp890*_gcl_au*NjY3Mzc3NzQ2LjE3Njk3NTEyMTc.*_ga*MTQ4NTY0MzIyNS4xNzc1MDA2MzQ3*_ga_VED1YSGNC7*czE3NzUwODU0ODMkbzQkZzEkdDE3NzUwODU4NjQkajMyJGwwJGgw&gatewayAdapt=glo2usa) | AliExpress |
 | 3D Printed Frame | this will the PCB and LEDS | $0.00 | 1 | $0.00 | there isn't a link | I will print this |
 
 pause the print at this stage:

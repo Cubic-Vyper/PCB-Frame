@@ -26,6 +26,7 @@ After that finishes printing, remove the supports (should come off easily due to
 Plug it up and enjoy!
 
 
+<img width="614" height="472" alt="image" src="https://github.com/user-attachments/assets/08870bf3-cb7d-4fd2-b57e-0f643b0590d7" />
 
 --------------------------------
 

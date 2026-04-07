@@ -11,22 +11,44 @@ I have included my .gcode files for my AnyCubic Vyper 3D printer, it has all the
 
 First print the inner frame, then the main frame.
 
-After the first pause, draw sharpie on the support interface (the blue/purpleish color in the image), then stop the print and select the 2-PCB Frame.gcode.
 
-<img width="1256" height="628" alt="image" src="https://github.com/user-attachments/assets/86ff567a-6276-4d55-b4ad-effab0e663db" />
+<img width="975" height="731" alt="image" src="https://github.com/user-attachments/assets/fb2d0e1f-a8b7-4d1e-9b89-bf4acc296e2f" />
+
+
+After the first pause, draw sharpie on the support interface, then stop the print and select the 2-PCB Frame.gcode.
+
+
+<img width="922" height="621" alt="image" src="https://github.com/user-attachments/assets/e7a7bc70-a764-4a7c-8c87-356d1564d9cc" />
+
 
 After the second pause insert the inner frame printed earlier (see image provided), stop the print and select the 3-PCB Frame.gcode.
 
 
-<img width="1304" height="692" alt="image" src="https://github.com/user-attachments/assets/79293ce7-718b-43b1-bd66-7e5c175e3ad9" />
+<img width="832" height="619" alt="image" src="https://github.com/user-attachments/assets/5ef5e06f-aa8e-4290-b6e2-d63b8a00f41e" />
 
 
-After that finishes printing, remove the supports (should come off easily due to the sharpie), and insert the leds strip.
 
-Plug it up and enjoy!
+<img width="975" height="731" alt="image" src="https://github.com/user-attachments/assets/c4ad0c0c-15e5-44be-a63e-2db74a40969e" />
 
 
-<img width="614" height="472" alt="image" src="https://github.com/user-attachments/assets/08870bf3-cb7d-4fd2-b57e-0f643b0590d7" />
+
+After that finishes printing, remove the supports (should come off easily due to the sharpie). if there is sharpie residue on the finished part use some Q-tips and rubbing alchol.
+Here is the support interface (came off without any effort):
+
+
+
+<img width="693" height="512" alt="image" src="https://github.com/user-attachments/assets/fd4e40fe-ffc6-40fd-ad02-c0d9a42283da" />
+
+
+
+Finnaly insert the leds strip, plug it up and enjoy!
+
+
+#insert image with leds (when they arrive)
+
+
+<img width="975" height="731" alt="image" src="https://github.com/user-attachments/assets/cabf2829-3130-4416-b52f-21eff52292d1" />
+
 
 --------------------------------
 

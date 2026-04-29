@@ -1,6 +1,8 @@
 # PCB-Frame
 This is a 3d printed light up picture frame designed to hold the first PCB I designed.
 
+Stasis Page PDF (cuz you would need an account to view the page): https://github.com/Cubic-Vyper/PCB-Frame/blob/a191ad025921ba00552eb9fcc064d63528881d37/Stasis_ProjectPage-PCB%20Frame.pdf
+
 | Name | Purpose | Cost | Qty | Total | Link | Distributor |
 |------|---------|------|-----|-------|------|-------------|
 | RGB Led Strip | This will light up the PCB | $1.99 | 1 | $1.99 | [Link to Listing](https://www.aliexpress.us/item/2251801850504415.html?spm=a2g0o.cart.0.0.7eff38dacol07w&mp=1&pdp_npi=6%40dis%21USD%21USD%205.61%21USD%201.99%21%21USD%201.99%21%21%21%402103129017750858662327765e2195%2167389781127%21ct%21US%217500193000%21%211%210%21&_gl=1*1yqp890*_gcl_au*NjY3Mzc3NzQ2LjE3Njk3NTEyMTc.*_ga*MTQ4NTY0MzIyNS4xNzc1MDA2MzQ3*_ga_VED1YSGNC7*czE3NzUwODU0ODMkbzQkZzEkdDE3NzUwODU4NjQkajMyJGwwJGgw&gatewayAdapt=glo2usa) | AliExpress |

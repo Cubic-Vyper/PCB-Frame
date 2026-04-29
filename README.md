@@ -40,14 +40,17 @@ Here is the support interface (came off without any effort):
 <img width="693" height="512" alt="image" src="https://github.com/user-attachments/assets/fd4e40fe-ffc6-40fd-ad02-c0d9a42283da" />
 
 
+<img width="975" height="731" alt="image" src="https://github.com/user-attachments/assets/cabf2829-3130-4416-b52f-21eff52292d1" />
+
 
 Finnaly insert the leds strip, plug it up and enjoy!
 
 
-#insert image with leds (when they arrive)
+<img width="975" height="731" alt="image" src="https://github.com/user-attachments/assets/8f289dc4-00f3-4fda-98f1-1a4a069959ac" />
 
 
-<img width="975" height="731" alt="image" src="https://github.com/user-attachments/assets/cabf2829-3130-4416-b52f-21eff52292d1" />
+(I still need to find a way to power and control the leds)
+
 
 
 --------------------------------
